@@ -14,7 +14,7 @@ OPPO/Realme/OnePlus Theme Wizard is an innovative tool crafted to revolutionize 
 
    ```bash
    git clone https://github.com/ImKKingshuk/OPPO-OnePlus-Realme-Theme-Wizard.git
-   cd OPPO-Realme-OnePlus-Theme-Wizard
+   cd OPPO-OnePlus-Realme-Theme-Wizard
    ```
 
 2. **Run the Theme Wizard:**
