@@ -42,4 +42,4 @@ Contributions are welcome! Report issues or submit pull requests to improve the 
 
 OPPO/Realme/OnePlus Theme Wizard is intended for personalization and customization purposes.
 
-### 🌈 Elevate Your Device's Aesthetics with OPPO/Realme/OnePlus Theme Wizard! Unlock Paid Themes and Embrace the Magic of Personalization! 🌈
+### 🎨 Elevate Your Device's Aesthetics with OPPO/Realme/OnePlus Theme Wizard! Unlock Paid Themes and Embrace the Magic of Personalization! 🎨
