@@ -100,4 +100,5 @@ main() {
     $ADB kill-server
 }
 
+check_for_updates
 main
