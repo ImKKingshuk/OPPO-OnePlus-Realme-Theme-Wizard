@@ -1,5 +1,3 @@
-Here's a similar README for the Theme Wizard tool:
-
 <h1 align="center">OPPO/Realme/OnePlus Theme Wizard</h1>
 <h3 align="center">v1.3.5</h3>
 
