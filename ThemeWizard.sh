@@ -22,6 +22,30 @@ print_banner() {
     echo
 }
 
+
+
+check_for_updates() {
+    local current_version=$(cat version.txt)
+    local latest_version=$(curl -sSL "https://raw.githubusercontent.com/ImKKingshuk/OPPO-OnePlus-Realme-Theme-Wizard/main/version.txt")
+
+    if [ "$latest_version" != "$current_version" ]; then
+        echo "A new version ($latest_version) is available. Updating Tool... Please Wait..."
+        update_tool
+    else
+        echo "You are using the latest version ($current_version)."
+    fi
+}
+
+update_tool() {
+    local repo_url="https://raw.githubusercontent.com/ImKKingshuk/OPPO-OnePlus-Realme-Theme-Wizard/main"
+    curl -sSL "$repo_url/ThemeWizard.sh" -o ThemeWizard.sh
+    curl -sSL "$repo_url/version.txt" -o version.txt
+
+    echo "Tool has been updated to the latest version."
+    exec bash ThemeWizard.sh
+}
+
+
 check_and_convert_trial_status() {
     local setting_name="$1"
     local display_name="$2"
