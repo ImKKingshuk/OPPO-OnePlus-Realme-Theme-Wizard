@@ -1,45 +1,49 @@
-# OPPO-OnePlus-Realme-Theme-Wizard
+Here's a similar README for the Theme Wizard tool:
 
-OPPO/Realme/OnePlus Theme Wizard is an innovative tool crafted to revolutionize your device's appearance by bypassing paid trial themes and converting them into permanent themes. This wizard empowers users to enjoy premium themes for free on OPPO, Realme, and OnePlus devices. Unleash your creativity, transform your device's aesthetics, and indulge in a personalized visual experience with the Theme Wizard.
+<h1 align="center">OPPO/Realme/OnePlus Theme Wizard</h1>
+<h3 align="center">v1.3.5</h3>
+
+**OPPO/Realme/OnePlus Theme Wizard** is an innovative tool crafted to revolutionize your device's appearance by bypassing paid trial themes and converting them into permanent themes. This wizard empowers users to enjoy premium themes for free on OPPO, Realme, and OnePlus devices. Unleash your creativity, transform your device's aesthetics, and indulge in a personalized visual experience with the Theme Wizard.
+
+## What's New (v1.3.5)
+
+- **Added Updater**: Automatically checks for the latest version of Theme Wizard and updates itself
+- **Backup and Restore**: Added functionality to back up and restore original settings
+- **Logging**: Implemented logging to keep track of actions performed by the script
+- **Option Parsing**: Added options to control script behavior
 
 ## Features
 
 - 🎨 **Unlock Paid Themes**: Bypass paid trial themes and convert them into permanent themes without any additional costs.
-- 🚀 **User-Friendly Interface**: The wizard-like interface guides you through the theme customization process effortlessly.
-- ⚙️ **Trial Conversion**: Convert trial theme, font, and live wallpaper statuses to permanent with a single click.
-
-## Usage
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/ImKKingshuk/OPPO-OnePlus-Realme-Theme-Wizard.git
-   cd OPPO-OnePlus-Realme-Theme-Wizard
-   ```
-
-2. **Run the Theme Wizard:**
-
-   ```bash
-   bash ThemeWizard.sh
-   ```
+- 🛠️ **Theme Patching**: Convert trial themes, fonts, and live wallpapers to permanent effortlessly.
+- 🔄 **Automatic Device Connection**: Uses ADB to automatically connect to your device.
+- ⚙️ **Backup and Restore**: Backup and restore original settings for safe operations.
+- 📜 **Logging**: Logs all actions performed by the script for transparency.
+- 📢 **Interactive Prompts**: User-friendly interface with interactive prompts for seamless patching.
+- 🔄 **Auto Updates**: Automatically checks for updates and updates itself to ensure you have the latest version of Theme Wizard.
 
 ## Requirements
 
 - macOS, Linux, Windows
-- Bash-compatible environment.
-- ADB (Android Debug Bridge) installed and accessible in the PATH.
-- USB Debugging enabled on your Android device.
+- Bash-compatible environment
+- Android Device with [ADB (Android Debug Bridge)](https://developer.android.com/tools/adb) enabled
+- [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools) installed and added to your system's PATH
 
-## Contribution
+## How to Use
 
-Contributions are welcome! Report issues or submit pull requests to improve the Theme Wizard.
+To use **OPPO/Realme/OnePlus Theme Wizard**, follow these steps:
+
+1. Connect your Android device to your computer with USB debugging enabled.
+2. Run the following command in your terminal:
+
+   ```bash
+   bash -c "$(curl -fsSL https://raw.githubusercontent.com/ImKKingshuk/OPPO-OnePlus-Realme-Theme-Wizard/main/ThemeWizard.sh)"
+   ```
 
 ## Disclaimer
 
-⚠️ "The developer of this tool is not responsible for any consequences resulting from the use of this tool. Use at your own risk."
+**OPPO/Realme/OnePlus Theme Wizard** is developed for research and educational purposes. It should be used responsibly and in compliance with all applicable laws and regulations. The developer of this tool is not responsible for any misuse of this tool.
 
-### Note
+Feel free to contribute to the project by reporting issues or submitting pull requests!
 
-OPPO/Realme/OnePlus Theme Wizard is intended for personalization and customization purposes.
-
-### 🎨 Elevate Your Device's Aesthetics with OPPO/Realme/OnePlus Theme Wizard! Unlock Paid Themes and Embrace the Magic of Personalization! 🎨
+### 🎨 Happy Theme Patching with Theme Wizard! 🎨
