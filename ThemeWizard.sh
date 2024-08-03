@@ -13,7 +13,7 @@ print_banner() {
         "******************************************"
         "*    OPPO/OnePlus/Realme Theme Wizard    *"
         "*           Theme Patching Tool          *"
-        "*                  v1.3.1                *"
+        "*                  v1.3.5                *"
         "*      ----------------------------      *"
         "*                        by @ImKKingshuk *"
         "* Github- https://github.com/ImKKingshuk *"
