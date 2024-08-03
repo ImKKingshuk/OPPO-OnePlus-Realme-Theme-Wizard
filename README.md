@@ -1,7 +1,7 @@
-<h1 align="center">OPPO/Realme/OnePlus Theme Wizard</h1>
+<h1 align="center">OPPO/OnePlus/Realme Theme Wizard</h1>
 <h3 align="center">v1.3.5</h3>
 
-**OPPO/Realme/OnePlus Theme Wizard** is an innovative tool crafted to revolutionize your device's appearance by bypassing paid trial themes and converting them into permanent themes. This wizard empowers users to enjoy premium themes for free on OPPO, Realme, and OnePlus devices. Unleash your creativity, transform your device's aesthetics with the Theme Wizard.
+**OPPO/OnePlus/Realme Theme Wizard** is an innovative tool crafted to revolutionize your device's appearance by bypassing paid trial themes and converting them into permanent themes. This wizard empowers users to enjoy premium themes for free on OPPO, Realme, and OnePlus devices. Unleash your creativity, transform your device's aesthetics with the Theme Wizard.
 
 ## What's New (v1.3.5)
 
@@ -29,7 +29,7 @@
 
 ## How to Use
 
-To use **OPPO/Realme/OnePlus Theme Wizard**, follow these steps:
+To use **OPPO/OnePlus/Realme Theme Wizard**, follow these steps:
 
 1. Connect your Android device to your computer with USB debugging enabled.
 2. Run the following command in your terminal:
@@ -40,7 +40,7 @@ To use **OPPO/Realme/OnePlus Theme Wizard**, follow these steps:
 
 ## Disclaimer
 
-**OPPO/Realme/OnePlus Theme Wizard** is developed for research and educational purposes. It should be used responsibly and in compliance with all applicable laws and regulations. The developer of this tool is not responsible for any misuse of this tool.
+**OPPO/OnePlus/Realme Theme Wizard** is developed for research and educational purposes. It should be used responsibly and in compliance with all applicable laws and regulations. The developer of this tool is not responsible for any misuse of this tool.
 
 Feel free to contribute to the project by reporting issues or submitting pull requests!
 
